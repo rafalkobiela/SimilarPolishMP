@@ -1,0 +1,137 @@
+body {
+    color: rgba(28, 54, 83, 0.6);
+}
+
+.janusze-font-style {
+    font-size: large;
+    fill: rgba(28, 54, 83, 0.6);
+}
+
+.janusze-font-style-description {
+    font-size: 18px;
+    fill: rgba(28, 54, 83, 0.6);
+}
+
+.janusze-font-style-large {
+    font-size: large;
+    fill: rgba(28, 54, 83, 0.6);
+}
+
+#description {
+    position: absolute;
+    left: 50vw;
+    top: 55vh;
+    margin-right: 10vh;
+    font-size: large;
+    text-align: justify;
+}
+
+#QR {
+    display: none;
+}
+
+#CaseStudies {
+    display: none;
+}
+
+h1 {
+    height: 8vh;
+}
+
+#content {
+    height: 40vh;
+    background-color: #F3F4F8;
+}
+
+#header {
+    text-align: center;
+}
+
+#canvasWrap {
+    position: absolute;
+    top: 10vh;
+    left: 10%;
+}
+
+#foreground {
+    position: absolute;
+    top: 10vh;
+    left: 10%;
+    width: 500px;
+    height: 500px;
+}
+
+#svg {
+    width: 1000px;
+}
+
+#member1 {
+    position: absolute;
+    top: 10vh;
+    left: 50vw;
+    width: 23vh;
+    height: 30vh;
+    border: 1px solid;
+}
+
+#member2 {
+    position: absolute;
+    top: 10vh;
+    left: 65vw;
+    width: 23vh;
+    height: 30vh;
+    border: 1px solid;
+}
+
+#member3 {
+    position: absolute;
+    top: 10vh;
+    left: 80vw;
+    width: 23vh;
+    height: 30vh;
+    border: 1px solid;
+}
+
+#member1-description {
+    position: absolute;
+    top: 42vh;
+    left: 50vw;
+    width: 23vh;
+    text-align: center;
+}
+
+#member2-description {
+    position: absolute;
+    top: 42vh;
+    left: 65vw;
+    width: 23vh;
+    text-align: center;
+}
+
+#member3-description {
+    position: absolute;
+    top: 42vh;
+    left: 80vw;
+    width: 23vh;
+    text-align: center;
+}
+
+#container {
+    position: relative;
+}
+
+#video {
+    height: 500px;
+    width: 500px;
+}
+
+#canvas {
+    height: 500px;
+    width: 500px;
+}
+
+#pca {
+    position: absolute;
+    top: 50vh;
+    left: 10vw;
+}
